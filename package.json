@@ -1,6 +1,6 @@
 {
   "name": "greek-text-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of greek text utils, including conversion to ISO 843/ELOT 743, Greeklish, Phonetic Latin, and Transliterated Latin",
   "type": "module",
   "main": "dist/cjs/index.js",
